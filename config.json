@@ -1,4 +1,4 @@
 {
-  "achievement_visible": false,
-  "community_visible": true
+  "achievement_visible": true,
+  "community_visible": false
 }
